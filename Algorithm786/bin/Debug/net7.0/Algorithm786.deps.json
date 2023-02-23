@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Algorithm786/1.0.0": {
+        "runtime": {
+          "Algorithm786.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algorithm786/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

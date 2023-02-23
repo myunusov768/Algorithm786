@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\C#\Algorithm786\Algorithm786\bin\Debug\net7.0\Algorithm786.exe
+C:\Users\Asus\Desktop\C#\Algorithm786\Algorithm786\bin\Debug\net7.0\Algorithm786.deps.json
+C:\Users\Asus\Desktop\C#\Algorithm786\Algorithm786\bin\Debug\net7.0\Algorithm786.runtimeconfig.json
+C:\Users\Asus\Desktop\C#\Algorithm786\Algorithm786\bin\Debug\net7.0\Algorithm786.dll
+C:\Users\Asus\Desktop\C#\Algorithm786\Algorithm786\bin\Debug\net7.0\Algorithm786.pdb
+C:\Users\Asus\Desktop\C#\Algorithm786\Algorithm786\obj\Debug\net7.0\Algorithm786.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Algorithm786\Algorithm786\obj\Debug\net7.0\Algorithm786.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#\Algorithm786\Algorithm786\obj\Debug\net7.0\Algorithm786.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#\Algorithm786\Algorithm786\obj\Debug\net7.0\Algorithm786.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#\Algorithm786\Algorithm786\obj\Debug\net7.0\Algorithm786.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\Algorithm786\Algorithm786\obj\Debug\net7.0\Algorithm786.dll
+C:\Users\Asus\Desktop\C#\Algorithm786\Algorithm786\obj\Debug\net7.0\refint\Algorithm786.dll
+C:\Users\Asus\Desktop\C#\Algorithm786\Algorithm786\obj\Debug\net7.0\Algorithm786.pdb
+C:\Users\Asus\Desktop\C#\Algorithm786\Algorithm786\obj\Debug\net7.0\Algorithm786.genruntimeconfig.cache
+C:\Users\Asus\Desktop\C#\Algorithm786\Algorithm786\obj\Debug\net7.0\ref\Algorithm786.dll
