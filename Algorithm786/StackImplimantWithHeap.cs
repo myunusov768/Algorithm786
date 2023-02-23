@@ -62,7 +62,7 @@ namespace Algorithm786
         {
             if (Root == null)
             {
-                return null;
+                throw new ArgumentNullException(nameof(Root));
             }
             if (Count == 1)
             {

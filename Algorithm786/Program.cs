@@ -12,8 +12,19 @@ using Algorithm786;
 //HasCycleLinkedList();
 //MySelectionSort();
 
-StackHeap();
+try
+{
+    StackHeap();
 
+}
+catch (Exception ex)
+{
+    Console.WriteLine(ex.Message);
+}
+finally
+{
+    Console.WriteLine("Korot chatogh:)");
+}
 
 
 void StackHeap()
@@ -33,11 +44,11 @@ void StackHeap()
     var result = stackImplimantWithHeap.Pop();
     var result1 = stackImplimantWithHeap.Pop();
     var result2 = stackImplimantWithHeap.Pop();
-    var result3 = stackImplimantWithHeap.Pop();
-    var result4 = stackImplimantWithHeap.Pop();
-    var result5 = stackImplimantWithHeap.Pop();
-    var result6 = stackImplimantWithHeap.Pop();
-    var result7 = stackImplimantWithHeap.Pop();
+    //var result3 = stackImplimantWithHeap.Pop();
+    //var result4 = stackImplimantWithHeap.Pop();
+    //var result5 = stackImplimantWithHeap.Pop();
+    //var result6 = stackImplimantWithHeap.Pop();
+    //var result7 = stackImplimantWithHeap.Pop();
     //var result8 = stackImplimantWithHeap.Pop();
 
 
