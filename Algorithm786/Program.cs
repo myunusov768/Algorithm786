@@ -10,11 +10,11 @@ using Algorithm786;
 //Palindrome();
 //CheckNForDoubleExist();
 //HasCycleLinkedList();
-//MySelectionSort();
+MySelectionSort();
 
 try
 {
-    StackHeap();
+    //StackHeap();
 
 }
 catch (Exception ex)
@@ -71,8 +71,8 @@ void MySelectionSort()
     int[] ints = new int[9] { 15, 10, 22, 13, 5, 16, 8, 26, 17 };
     
 
-    //MergeSort mergeSort = new MergeSort();
-    //mergeSort.MergeSorting(ints);
+    MergeSort mergeSort = new MergeSort();
+    mergeSort.MergeSorting(ints);
     foreach (var item in ints)
     {
         Console.Write(item + ", ");
@@ -80,24 +80,24 @@ void MySelectionSort()
     Console.WriteLine();
 
 
-    SelectionSort selectionSort = new SelectionSort();
-    selectionSort.SelectSort(ints: ints);
-    foreach (var item in ints)
-    {
-        Console.Write(item + ", ");
-    }
-    Console.WriteLine();
-    
-    TwoPointers twoPointers = new TwoPointers();
-    var result = twoPointers.TwoPointer(ints, 15);
-
-    Console.WriteLine(result);
-
-    LeanerSearch leanerSearch = new LeanerSearch();
-    Console.WriteLine(leanerSearch.LeanerSearching(ints, 15));
-
-    BinarySearch binarySearch = new BinarySearch();
-    Console.WriteLine(binarySearch.BinarySearching(ints, 8));
+    //SelectionSort selectionSort = new SelectionSort();
+    //selectionSort.SelectSort(ints: ints);
+    //foreach (var item in ints)
+    //{
+    //    Console.Write(item + ", ");
+    //}
+    //Console.WriteLine();
+    //
+    //TwoPointers twoPointers = new TwoPointers();
+    //var result = twoPointers.TwoPointer(ints, 15);
+    //
+    //Console.WriteLine(result);
+    //
+    //LeanerSearch leanerSearch = new LeanerSearch();
+    //Console.WriteLine(leanerSearch.LeanerSearching(ints, 15));
+    //
+    //BinarySearch binarySearch = new BinarySearch();
+    //Console.WriteLine(binarySearch.BinarySearching(ints, 8));
 
 
 }

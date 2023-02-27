@@ -1,11 +1,11 @@
 ﻿
-namespace MergeSortN
+namespace Algorithm786.LessonTopicsAlgorithm
 {
-    public class MergeSort
+    public class MergeSort2
     {
         public void MergeSorting(int[] ints)
         {
-            if(ints == null)
+            if (ints == null)
                 throw new ArgumentNullException(nameof(ints));
             if (ints.Length == 1)
                 return;
@@ -34,7 +34,6 @@ namespace MergeSortN
 
             }
         }
-
         public void Merge(int[] ints, int low, int hight, int middle)
         {
             int leftLength = middle - low + 1;
@@ -52,7 +51,7 @@ namespace MergeSortN
                 rightInts[l] = ints[middle + 1 + l];
             }
 
-            int j =0;
+            int j = 0;
             int f = 0;
 
             int k = low;
@@ -89,10 +88,8 @@ namespace MergeSortN
                 f++;
                 k++;
             }
+
         }
-
-
-
         public (int low, int hight, int middle) GetLowHightMiddle(int[] values)
         {
             if (values == null)
@@ -104,6 +101,5 @@ namespace MergeSortN
             middle = low + (high - low) / 2;
             return (low, high, middle);
         }
-
     }
 }
